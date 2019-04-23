@@ -1,0 +1,14 @@
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\bin\Debug\netcoreapp2.2\TestAppApi.deps.json
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\bin\Debug\netcoreapp2.2\TestAppApi.runtimeconfig.json
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\bin\Debug\netcoreapp2.2\TestAppApi.runtimeconfig.dev.json
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\bin\Debug\netcoreapp2.2\TestAppApi.dll
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\bin\Debug\netcoreapp2.2\TestAppApi.pdb
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.csprojAssemblyReference.cache
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.csproj.CoreCompileInputs.cache
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.RazorAssemblyInfo.cache
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.RazorAssemblyInfo.cs
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.AssemblyInfoInputs.cache
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.AssemblyInfo.cs
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.dll
+C:\Users\Glen Roselle\Desktop\DotnetApp\TestAppApi\obj\Debug\netcoreapp2.2\TestAppApi.pdb
